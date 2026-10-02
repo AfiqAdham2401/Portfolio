@@ -171,12 +171,14 @@ body {
 .about {
     max-width: 750px;
     margin: auto;
-    text-align: center;
 }
 
 .about p {
     margin-top: 15px;
+    margin-bottom: 20px;
     color: #cbd6ff;
+    line-height: 1.8;
+    text-align: left;
 }
 
 /* ===============================
